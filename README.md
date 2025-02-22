@@ -27,8 +27,8 @@ AbdTechO is more than just a tool—it's your partner in building a secure digit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/gotr00t0day/TechackZ.git
-cd TechackZ
+git clone https://github.com/abdorhl/AbdTechO
+cd AbdTechO
 ````
 2. Install Python dependencies:
 ```bash
@@ -42,7 +42,7 @@ chmod +x install.sh
 
 ## 📖 Usage
 ```bash
-usage: techackz.py [-h] [-u URL | -f FILE] [-o OUTPUT]
+usage: AbdTechO.py [-h] [-u URL | -f FILE] [-o OUTPUT]
                    [-s {info,low,medium,high,critical}] [--no-tech] [--ignore-ssl]
                    [-t TECHNOLOGY] [-d]
 

@@ -1,0 +1,9 @@
+python-Wappalyzer
+colorama
+requests
+packaging
+python-dateutil
+urllib3
+beautifulsoup4
+python-dotenv
+argparse

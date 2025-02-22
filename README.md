@@ -27,7 +27,7 @@ AbdTechO is more than just a tool—it's your partner in building a secure digit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abdorhl/AbdTechO
+git clone https://github.com/abdorhl/AbdTechO.git
 cd AbdTechO
 ````
 2. Install Python dependencies:
